@@ -575,7 +575,7 @@ var owlSingleSlider = function () {
 			margin: 0,
 			smartSpeed: 1500,
 			autoplay: true,
-			autoHeight: true,
+
 			autoplayHoverPause: true,
 			dots: true,
 			nav: true,
