@@ -1638,6 +1638,12 @@ figure.dotted-bg:before {
   background: rgba(0, 0, 0, 0.5);
   content: "";
 }
+.portfolio-item .comingSoon.overlay:before {
+	background: rgb(151 0 0 / 50%);
+	cursor: not-allowed;
+}
+
+
 .portfolio-item .wrap-icon,
 .blog-item .wrap-icon {
   position: absolute;
