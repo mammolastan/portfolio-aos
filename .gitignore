@@ -1,2 +1,12 @@
 /_ignore
+/.well-known
+/_test
+/cgi-bin
+/fallinginlovemontage.com
+/urbanfloater.com
+.gitignore
+*.xml
+.DS_Store
+images/.DS_Store
+.htaccess
 _mjmNotes.html

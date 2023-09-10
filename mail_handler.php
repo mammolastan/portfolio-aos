@@ -23,9 +23,8 @@ if ( isset( $_POST ) ) {
     $errorMessage = error_get_last()[ 'message' ];
     print_r( error_get_last() );
   } else {
-    echo "\n\nMail Sent. Thasdasdaank you " . $first_name . ", we will contasdasdact you shortly.";
+    echo "\n\n Your message has been sent. Thank you " . $first_name . ", I'll receive your message shortly.";
   }
-
 
   // You can also use header('Location: thank_you.php'); to redirect to another page.
   // You cannot use header and echo together. It's one or the other.
